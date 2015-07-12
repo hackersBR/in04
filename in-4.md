@@ -4,7 +4,7 @@ Dispõe sobre o processo de contratação de Soluções de Tecnologia da Informa
 
 A SECRETÁRIA DE LOGÍSTICA E TECNOLOGIA DA INFORMAÇÃO, no uso das atribuições que lhe confere o art. 34 do [Decreto nº 8.189, de 21 de janeiro de 2014], e tendo em vista o disposto na [Lei nº 8.666, de 21 de junho de 1993], e na [Lei nº 10.520, de 17 de julho de 2002], no [Decreto nº 2.271, de 7 de julho de 1997], no [Decreto nº 3.555, de 8 de agosto de 2000], no [Decreto nº 5.450, de 31 de maio de 2005], no [Decreto nº 7.174, de 12 de maio de 2010], no [Decreto nº 7.579, de 11 de outubro de 2011], no [Decreto nº 7.892, de 23 de janeiro de 2013], resolve:
 
-Art. 1º As contratações de Soluções de Tecnologia da Informação pelos órgãos e entidades integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação (SISP) serão disciplinadas por esta Instrução Normativa (IN).
+<a id="art-1"/>[Art. 1º](#art-1) As contratações de Soluções de Tecnologia da Informação pelos órgãos e entidades integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação (SISP) serão disciplinadas por esta Instrução Normativa (IN).
 
 § 1º Esta IN não se aplica:
 
@@ -26,7 +26,7 @@ III - Às contratações de Soluções de Tecnologia da Informação que possam 
 
 ## Capítulo I: DAS DISPOSIÇÕES GERAIS
 
-Art. 2º Para fins desta IN, considera-se:
+<a id="art-2"/>[Art. 2º](#art-2) Para fins desta IN, considera-se:
 
 I - Área Requisitante da Solução: unidade do órgão ou entidade que demande a contratação de uma Solução de Tecnologia da Informação;
 
@@ -92,9 +92,9 @@ XXVIII - Comitê de Tecnologia da Informação: grupo formado por titulares das 
 
 XXIX - Serviços Estratégicos de Tecnologia da Informação: conjunto de atividades de prestação de serviços, relacionadas aos sistemas estruturantes e finalísticos dos órgãos e entidades, que integram uma Solução de Tecnologia da Informação e cuja execução envolve informações críticas quanto à confiabilidade, segurança e confidencialidade, e cuja descontinuidade na prestação dos serviços pode impactar as atividades dos órgãos ou entidades.
 
-Art. 3º Em consonância com o art. 4º do [Decreto nº 7.579, de 11 de Outubro de 2011], o órgão central do SISP elaborará, em conjunto com os órgãos setoriais e seccionais do SISP, a Estratégia Geral de Tecnologia da Informação e Comunicação - EGTIC para a Administração direta, autárquica e fundacional do Poder Executivo Federal, revisada e publicada anualmente, para servir de subsídio à elaboração dos PDTI pelos órgãos e entidades integrantes do SISP. (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
+<a id="art-3"/>[Art. 3º](#art-3) Em consonância com o art. 4º do [Decreto nº 7.579, de 11 de Outubro de 2011], o órgão central do SISP elaborará, em conjunto com os órgãos setoriais e seccionais do SISP, a Estratégia Geral de Tecnologia da Informação e Comunicação - EGTIC para a Administração direta, autárquica e fundacional do Poder Executivo Federal, revisada e publicada anualmente, para servir de subsídio à elaboração dos PDTI pelos órgãos e entidades integrantes do SISP. (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
 
-Art. 4º As contratações de que trata esta IN deverão ser precedidas de planejamento, elaborado em harmonia com o Plano Diretor de Tecnologia da Informação - PDTI.
+<a id="art-4"/>[Art. 4º](#art-4) As contratações de que trata esta IN deverão ser precedidas de planejamento, elaborado em harmonia com o Plano Diretor de Tecnologia da Informação - PDTI.
 
 § 1º O PDTI deverá estar alinhado à EGTIC e ao plano estratégico institucional e aprovado pelo Comitê de Tecnologia da Informação do órgão ou entidade. (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
 
@@ -110,7 +110,7 @@ Art. 4º As contratações de que trata esta IN deverão ser precedidas de plane
 
 § 7º Inexistindo o Comitê de Tecnologia da Informação, o órgão ou entidade deverá instituí-lo e dar-lhe pleno funcionamento, observando, no que couber, o Guia de Comitê de Tecnologia da Informação do SISP, acessível no Portal do SISP.
 
-Art. 5º Não poderão ser objeto de contratação:
+<a id="art-5"/>[Art. 5º](#art-5) Não poderão ser objeto de contratação:
 
 I - mais de uma Solução de Tecnologia da Informação em um único contrato; e
 
@@ -118,9 +118,9 @@ II - gestão de processos de Tecnologia da Informação, incluindo gestão de se
 
 Parágrafo único. O apoio técnico aos processos de planejamento e avaliação da qualidade das Soluções de Tecnologia da Informação poderá ser objeto de contratação, desde que sob supervisão exclusiva de servidores do órgão ou entidade.
 
-Art. 6º Nos casos em que a avaliação, mensuração ou apoio à fiscalização da Solução de Tecnologia da Informação seja objeto de contratação, a contratada que provê a Solução de Tecnologia da Informação não poderá ser a mesma que a avalia, mensura ou apoia à fiscalização.
+<a id="art-6"/>[Art. 6º](#art-6) Nos casos em que a avaliação, mensuração ou apoio à fiscalização da Solução de Tecnologia da Informação seja objeto de contratação, a contratada que provê a Solução de Tecnologia da Informação não poderá ser a mesma que a avalia, mensura ou apoia à fiscalização.
 
-Art. 7º É vedado:
+<a id="art-7"/>[Art. 7º](#art-7) É vedado:
 
 I - estabelecer vínculo de subordinação com funcionários da contratada;
 
@@ -148,7 +148,7 @@ b) fixar os fatores de ponderação das propostas técnica e de preço sem justi
 
 ## Capítulo II: DO PROCESSO DE CONTRATAÇÃO
 
-Art. 8º As contratações de Soluções de Tecnologia da Informação deverão seguir três fases:
+<a id="art-8"/>[Art. 8º](#art-8) As contratações de Soluções de Tecnologia da Informação deverão seguir três fases:
 
 I - Planejamento da Contratação;
 
@@ -158,7 +158,7 @@ III - Gestão do Contrato.
 
 ### Seção I: Planejamento da Contratação
 
-Art. 9º A fase de Planejamento da Contratação consiste nas seguintes etapas:
+<a id="art-9"/>[Art. 9º](#art-9) A fase de Planejamento da Contratação consiste nas seguintes etapas:
 
 I - Instituição da Equipe de Planejamento da Contratação;
 
@@ -180,7 +180,7 @@ III - criação e adesão à Ata de Registro de Preços; e
 
 IV - contratações com uso de verbas de organismos internacionais, como Banco Mundial, Banco Internacional para Reconstrução e Desenvolvimento, e outros.
 
-Art. 10. A Equipe de Planejamento da Contratação deverá acompanhar, apoiar e/ou realizar, quando determinado pelas áreas responsáveis, todas as atividades das fases de Planejamento da Contratação e Seleção do Fornecedor.
+<a id="art-10"/>[Art. 10](#art-10). A Equipe de Planejamento da Contratação deverá acompanhar, apoiar e/ou realizar, quando determinado pelas áreas responsáveis, todas as atividades das fases de Planejamento da Contratação e Seleção do Fornecedor.
 
 Parágrafo único. A Equipe de Planejamento da Contratação deverá manter registro histórico de:
 
@@ -190,7 +190,7 @@ II - documentos gerados e/ou recebidos, a exemplo dos artefatos previstos nesta 
 
 #### Subseção I: Da instituição da Equipe de Planejamento da Contratação
 
-Art. 11. A fase de Planejamento da Contratação terá início com o recebimento pela Área de Tecnologia da Informação do Documento de Oficialização da Demanda - DOD, a cargo da Área Requisitante da Solução, para instituição da Equipe de Planejamento da Contratação, que conterá no mínimo:
+<a id="art-11"/>[Art. 11](#art-11). A fase de Planejamento da Contratação terá início com o recebimento pela Área de Tecnologia da Informação do Documento de Oficialização da Demanda - DOD, a cargo da Área Requisitante da Solução, para instituição da Equipe de Planejamento da Contratação, que conterá no mínimo:
 
 I - necessidade da contratação, considerando os objetivos estratégicos e as necessidades corporativas da instituição, bem como o seu alinhamento ao PDTI;
 
@@ -212,7 +212,7 @@ III - instituir a Equipe de Planejamento da Contratação, conforme exposto no a
 
 #### Subseção II: Do Estudo Técnico Preliminar da Contratação
 
-Art. 12. O Estudo Técnico Preliminar da Contratação será realizado pelos Integrantes Técnico e Requisitante, compreendendo as seguintes tarefas:
+<a id="art-12"/>[Art. 12](#art-12). O Estudo Técnico Preliminar da Contratação será realizado pelos Integrantes Técnico e Requisitante, compreendendo as seguintes tarefas:
 
 I - definição e especificação das necessidades de negócio e tecnológicas, e/ou dos requisitos necessários e suficientes à escolha da Solução de Tecnologia da Informação, a partir da avaliação do DOD e do levantamento de:
 
@@ -280,7 +280,7 @@ II - os Integrantes Requisitante e Técnico da Equipe de Planejamento da Contrat
 
 #### Subseção III: Da Análise de Riscos
 
-Art. 13. A Análise de Riscos será elaborada pela Equipe de Planejamento da Contratação contendo os seguintes itens:
+<a id="art-13"/>[Art. 13](#art-13). A Análise de Riscos será elaborada pela Equipe de Planejamento da Contratação contendo os seguintes itens:
 
 I - identificação dos principais riscos que possam comprometer o sucesso dos processos de contratação e de gestão contratual;
 
@@ -300,7 +300,7 @@ VI - definição dos responsáveis pelas ações de prevenção dos riscos e dos
 
 #### Subseção IV: Do Termo de Referência ou do Projeto Básico
 
-Art. 14. O Termo de Referência ou Projeto Básico será elaborado pela Equipe de Planejamento da Contratação a partir do Estudo Técnico Preliminar da Contratação e conterá, no mínimo, as seguintes informações:
+<a id="art-14"/>[Art. 14](#art-14). O Termo de Referência ou Projeto Básico será elaborado pela Equipe de Planejamento da Contratação a partir do Estudo Técnico Preliminar da Contratação e conterá, no mínimo, as seguintes informações:
 
 I - definição do objeto da contratação, conforme art. 15;
 
@@ -342,15 +342,15 @@ II - permitir consórcio ou subcontratação da Solução de Tecnologia da Infor
 
 § 6º O Termo de Referência ou Projeto Básico será assinado pela Equipe de Planejamento da Contratação e aprovado pela autoridade competente.
 
-Art. 15. A definição do objeto da contratação deverá ser precisa, suficiente e clara, vedadas especificações que, por excessivas, irrelevantes ou desnecessárias, limitem ou frustrem a competição ou a realização do fornecimento.
+<a id="art-15"/>[Art. 15](#art-15). A definição do objeto da contratação deverá ser precisa, suficiente e clara, vedadas especificações que, por excessivas, irrelevantes ou desnecessárias, limitem ou frustrem a competição ou a realização do fornecimento.
 
-Art. 16. A justificativa para contratação deverá conter, pelo menos:
+<a id="art-16"/>[Art. 16](#art-16). A justificativa para contratação deverá conter, pelo menos:
 
 I - relação entre o Plano Diretor de Tecnologia da Informação e os objetivos estratégicos, conforme disposto no art. 11, inciso I desta IN; e
 
 II - a descrição da Solução de Tecnologia da Informação, contendo de forma detalhada, motivada e justificada, inclusive quanto à forma de cálculo, o quantitativo de bens e serviços necessários para a sua composição, juntamente com demonstrativo de resultados a serem alcançados em termos de economicidade e de melhor aproveitamento dos recursos humanos, materiais e financeiros disponíveis, conforme inciso IV do art. 12. (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
 
-Art. 17. Na especificação dos requisitos da contratação, compete:
+<a id="art-17"/>[Art. 17](#art-17). Na especificação dos requisitos da contratação, compete:
 
 I - ao Integrante Requisitante, com apoio do Integrante Técnico, definir, quando aplicáveis, os seguintes requisitos:
 
@@ -392,7 +392,7 @@ j) demais requisitos aplicáveis.
 
 Parágrafo único. A Equipe de Planejamento da Contratação deverá garantir o alinhamento entre os requisitos definidos no inciso I e especificados no inciso II deste artigo.
 
-Art. 18. A definição das responsabilidades da contratante, da contratada e do órgão gerenciador do registro de preços, quando aplicável, deverá observar:
+<a id="art-18"/>[Art. 18](#art-18). A definição das responsabilidades da contratante, da contratada e do órgão gerenciador do registro de preços, quando aplicável, deverá observar:
 
 I - a definição das obrigações da contratante contendo, pelo menos, a obrigação de: 
 
@@ -462,7 +462,7 @@ f) definir mecanismos de controle de fornecimento da Solução de Tecnologia da 
 
 5. previsão da exigência para realização de diligências e/ou Prova de Conceito com o licitante provisoriamente classificado em primeiro lugar para fins de comprovação de atendimento das especificações técnicas.
 
-Art. 19. O Modelo de Execução do contrato deverá contemplar as condiçõe snecessárias ao fornecimento da Solução de Tecnologia da Informação, observando, quando possível:
+<a id="art-19"/>[Art. 19](#art-19). O Modelo de Execução do contrato deverá contemplar as condiçõe snecessárias ao fornecimento da Solução de Tecnologia da Informação, observando, quando possível:
 
 I - fixação das rotinas de execução, com a definição de processos e procedimentos de fornecimento da Solução de Tecnologia da Informação, envolvendo:
 
@@ -486,7 +486,7 @@ b) termo de ciência da declaração de manutenção de sigilo e das normas de s
 
 Parágrafo único. A critério da Equipe de Planejamento da Contratação, os elementos dispostos no inciso V deste artigo poderão constar como Anexo do Termo de Referência ou Projeto Básico. 
 
-Art. 20. O Modelo de Gestão do contrato, definido a partir do Modelo de Execução do Contrato, deverá contemplar as condições para gestão e fiscalização do contrato de fornecimento da Solução de Tecnologia da Informação, observando, quando possível:
+<a id="art-20"/>[Art. 20](#art-20). O Modelo de Gestão do contrato, definido a partir do Modelo de Execução do Contrato, deverá contemplar as condições para gestão e fiscalização do contrato de fornecimento da Solução de Tecnologia da Informação, observando, quando possível:
 
 I - fixação dos Critérios de Aceitação dos serviços prestados ou bens fornecidos, abrangendo métricas, indicadores e níveis de serviços com os valores mínimos aceitáveis para os principais elementos que compõe a Solução de Tecnologia da Informação;
 
@@ -532,19 +532,19 @@ V - procedimentos para emissão de nota fiscal e pagamento, descontados os valor
 
 Parágrafo único. Como apoio à definição dos elementos do Modelo de Gestão do Contrato deverá ser observada a Análise de Riscos, conforme disposto no art. 13 desta IN.
 
-Art. 21. A critério da Equipe de Planejamento da Contratação, as obrigações definidas nos arts. 19 e 20 desta IN poderão ser consolidados nas obrigações estabelecidas no art. 18.
+<a id="art-21"/>[Art. 21](#art-21). A critério da Equipe de Planejamento da Contratação, as obrigações definidas nos arts. 19 e 20 desta IN poderão ser consolidados nas obrigações estabelecidas no art. 18.
 
-Art. 22. A estimativa de preço da contratação deverá ser realizada pelos Integrantes Administrativo e Técnico para elaboração do orçamento detalhado, composta por preços unitários e fundamentada em pesquisa no mercado, a exemplo de contratações similares, valores oficiais de referência, pesquisa junto a fornecedores ou tarifas públicas.
+<a id="art-22"/>[Art. 22](#art-22). A estimativa de preço da contratação deverá ser realizada pelos Integrantes Administrativo e Técnico para elaboração do orçamento detalhado, composta por preços unitários e fundamentada em pesquisa no mercado, a exemplo de contratações similares, valores oficiais de referência, pesquisa junto a fornecedores ou tarifas públicas.
 
-Art. 23. A adequação orçamentária e o cronograma físico- financeiro serão elaborados pelos Integrantes Requisitante e Técnico, contendo:
+<a id="art-23"/>[Art. 23](#art-23). A adequação orçamentária e o cronograma físico- financeiro serão elaborados pelos Integrantes Requisitante e Técnico, contendo:
 
 I - a estimativa do impacto econômico-financeiro no orçamento do órgão ou entidade, com indicação das fontes de recurso; e
 
 II - cronograma de execução física e financeira, contendo o detalhamento das etapas ou fases da Solução a ser contratada, com os principais serviços ou bens que a compõe, e a previsão de desembolso para cada uma delas.
 
-Art. 24. Definição do regime de execução do contrato, observado o disposto no inciso VIII do art. 6º da Lei nº 8.666, de 1993.
+<a id="art-24"/>[Art. 24](#art-24). Definição do regime de execução do contrato, observado o disposto no inciso VIII do art. 6º da Lei nº 8.666, de 1993.
 
-Art. 25. A definição, pelo Integrante Técnico, dos critérios técnicos de julgamento das propostas para a fase de Seleção do Fornecedor, deverá observar o seguinte:
+<a id="art-25"/>[Art. 25](#art-25). A definição, pelo Integrante Técnico, dos critérios técnicos de julgamento das propostas para a fase de Seleção do Fornecedor, deverá observar o seguinte:
 
 a) a utilização de critérios correntes no mercado;
 
@@ -560,15 +560,15 @@ f) a justificativa dos critérios de pontuação em termos do benefício que tra
 
 ### Seção II: Seleção do Fornecedor
 
-Art. 26. A fase de Seleção do Fornecedor observará as normas pertinentes, incluindo o disposto na [Lei nº 8.666, de 1993], na [Lei nº 10.520, de 2002], no [Decreto nº 2.271, de 1997], no [Decreto nº 3.555, de 2000], no [Decreto nº 5.450, de 2005], no [Decreto nº 7.174, de 2010], no [Decreto nº 7.892, de 2013] e no [Decreto nº 8.250, de 2014].
+<a id="art-26"/>[Art. 26](#art-26). A fase de Seleção do Fornecedor observará as normas pertinentes, incluindo o disposto na [Lei nº 8.666, de 1993], na [Lei nº 10.520, de 2002], no [Decreto nº 2.271, de 1997], no [Decreto nº 3.555, de 2000], no [Decreto nº 5.450, de 2005], no [Decreto nº 7.174, de 2010], no [Decreto nº 7.892, de 2013] e no [Decreto nº 8.250, de 2014].
 
 Parágrafo único. É obrigatória a utilização da modalidade Pregão para as contratações de que trata esta IN sempre que a Solução de Tecnologia da Informação for enquadrada como bens ou serviços comuns, conforme o art. 1º da [Lei nº 10.520, de 2002], preferencialmente na forma eletrônica, de acordo com o [Decreto nº 5.450, de 2005].
 
-Art. 27. A fase de Seleção do Fornecedor terá início com o encaminhamento do Termo de Referência ou Projeto Básico pela Área de Tecnologia da Informação à Área de Licitações.
+<a id="art-27"/>[Art. 27](#art-27). A fase de Seleção do Fornecedor terá início com o encaminhamento do Termo de Referência ou Projeto Básico pela Área de Tecnologia da Informação à Área de Licitações.
 
-Art. 28. Caberá a Área de Licitações conduzir as etapas da fase de Seleção do Fornecedor.
+<a id="art-28"/>[Art. 28](#art-28). Caberá a Área de Licitações conduzir as etapas da fase de Seleção do Fornecedor.
 
-Art. 29. Caberá a Área de Tecnologia da Informação, com a participação do Integrante Técnico, durante a fase de Seleção do Fornecedor:
+<a id="art-29"/>[Art. 29](#art-29). Caberá a Área de Tecnologia da Informação, com a participação do Integrante Técnico, durante a fase de Seleção do Fornecedor:
 
 I - analisar as sugestões feitas pelas Áreas de Licitações e Jurídica para o Termo de Referência ou Projeto Básico e demais documentos;
 
@@ -576,7 +576,7 @@ II - apoiar tecnicamente o pregoeiro ou a Comissão de Licitação na resposta a
 
 III - apoiar tecnicamente o pregoeiro ou a Comissão de Licitação na análise e julgamento das propostas e dos recursos apresentados pelos licitantes.
 
-Art. 30. A fase de Seleção do Fornecedor se encerrará com a assinatura do contrato e com a nomeação do:
+<a id="art-30"/>[Art. 30](#art-30). A fase de Seleção do Fornecedor se encerrará com a assinatura do contrato e com a nomeação do:
 
 I - Gestor do Contrato;
 
@@ -594,11 +594,11 @@ IV - Fiscal Administrativo do Contrato.
 
 ### Seção III: Gestão do Contrato
 
-Art. 31. A fase de Gestão do Contrato visa acompanhar e garantir a adequada prestação dos serviços e o fornecimento dos bens que compõem a Solução de Tecnologia da Informação durante todo o período de execução do contrato.
+<a id="art-31"/>[Art. 31](#art-31). A fase de Gestão do Contrato visa acompanhar e garantir a adequada prestação dos serviços e o fornecimento dos bens que compõem a Solução de Tecnologia da Informação durante todo o período de execução do contrato.
 
 #### Subseção I: Do início do contrato
 
-Art. 32. As atividades de início do contrato compreendem:
+<a id="art-32"/>[Art. 32](#art-32). As atividades de início do contrato compreendem:
 
 I - elaboração do Plano de Inserção da contratada, pelo Gestor do Contrato e pelos Fiscais Técnico, Administrativo e Requisitante do Contrato, observando o disposto nos arts. 17, 18, 19 e 20 e a proposta vencedora, contemplando, no mínimo:
 
@@ -626,7 +626,7 @@ Parágrafo único. A critério do Gestor e dos Fiscais do contrato, o Plano de I
 
 #### Subseção II: Do encaminhamento formal de demandas
 
-Art. 33. O encaminhamento formal de demandas deverá ocorrer preferencialmente por meio do encaminhamento de Ordens de Serviço ou Fornecimento de Bens ou conforme definido no Modelo de Execução do contrato, disposto no art. 19, e deverá conter, no mínimo:
+<a id="art-33"/>[Art. 33](#art-33). O encaminhamento formal de demandas deverá ocorrer preferencialmente por meio do encaminhamento de Ordens de Serviço ou Fornecimento de Bens ou conforme definido no Modelo de Execução do contrato, disposto no art. 19, e deverá conter, no mínimo:
 
 I - a definição e a especificação dos serviços a serem realizados ou bens a serem fornecidos;
 
@@ -640,7 +640,7 @@ Parágrafo único. O encaminhamento das demandas deverá ser planejado visando a
 
 #### Subseção III: Do monitoramento da execução
 
-Art. 34. O monitoramento da execução deverá observar o disposto no Plano de Fiscalização da contratada e o disposto no Modelo de Gestão do contrato, e consiste em:
+<a id="art-34"/>[Art. 34](#art-34). O monitoramento da execução deverá observar o disposto no Plano de Fiscalização da contratada e o disposto no Modelo de Gestão do contrato, e consiste em:
 
 I - confecção e assinatura do Termo de Recebimento Provisório, a cargo do Fiscal Técnico do Contrato, quando da entrega do objeto resultante de cada Ordem de Serviço ou de Fornecimento de Bens;
 
@@ -674,7 +674,7 @@ Parágrafo único. No caso de substituição ou inclusão de empregados por part
 
 #### Subseção IV: Da transição e do encerramento contratual
 
-Art. 35. As atividades de transição contratual, quando aplicáveis, e de encerramento do contrato deverão observar:
+<a id="art-35"/>[Art. 35](#art-35). As atividades de transição contratual, quando aplicáveis, e de encerramento do contrato deverão observar:
 
 I - a manutenção dos recursos materiais e humanos necessários à continuidade do negócio por parte da Administração;
 
@@ -690,21 +690,21 @@ VI - a eliminação de caixas postais; e
 
 VII - outras que se apliquem.
 
-Art. 36. No caso de aditamento contratual, o Gestor do Contrato deverá, com base na documentação contida no Histórico de Gestão do Contrato e nos princípios da manutenção da necessidade, economicidade e oportunidade da contratação, encaminhar à Área Administrativa, com pelo menos 60 (sessenta) dias de antecedência do término do contrato, documentação explicitando os motivos para tal aditamento.
+<a id="art-36"/>[Art. 36](#art-36). No caso de aditamento contratual, o Gestor do Contrato deverá, com base na documentação contida no Histórico de Gestão do Contrato e nos princípios da manutenção da necessidade, economicidade e oportunidade da contratação, encaminhar à Área Administrativa, com pelo menos 60 (sessenta) dias de antecedência do término do contrato, documentação explicitando os motivos para tal aditamento.
 
-Art. 37. Os softwares resultantes de serviços de desenvolvimento deverão ser catalogados pela contratante e, sempre que aplicável, disponibilizados no Portal do Software Público Brasileiro de acordo com o regulamento do Órgão Central do SISP.
+<a id="art-37"/>[Art. 37](#art-37). Os softwares resultantes de serviços de desenvolvimento deverão ser catalogados pela contratante e, sempre que aplicável, disponibilizados no Portal do Software Público Brasileiro de acordo com o regulamento do Órgão Central do SISP.
 
 ## Capítulo III: DAS DISPOSIÇÕES FINAIS
 
-Art. 38. Aplica-se subsidiariamente às contratações de que trata esta norma o disposto na IN nº 2, de 30 de abril de 2008, e suas alterações, que disciplina as contratações de serviços gerais.
+<a id="art-38"/>[Art. 38](#art-38). Aplica-se subsidiariamente às contratações de que trata esta norma o disposto na IN nº 2, de 30 de abril de 2008, e suas alterações, que disciplina as contratações de serviços gerais.
 
-Art. 39. As Áreas de Compras, Licitações e Contratos dos órgãos e entidades apoiarão as atividades da contratação, de acordo com as suas atribuições regimentais.
+<a id="art-39"/>[Art. 39](#art-39). As Áreas de Compras, Licitações e Contratos dos órgãos e entidades apoiarão as atividades da contratação, de acordo com as suas atribuições regimentais.
 
-Art. 40. As normas dispostas nesta IN deverão ser aplicadas nas prorrogações contratuais, ainda que de contratos assinados antes do início da vigência desta IN.
+<a id="art-40"/>[Art. 40](#art-40). As normas dispostas nesta IN deverão ser aplicadas nas prorrogações contratuais, ainda que de contratos assinados antes do início da vigência desta IN.
 
 Parágrafo único. Nos casos em que os ajustes não forem considerados viáveis, o órgão ou entidade deverá justificar esse fato, prorrogar uma única vez pelo período máximo de 12 (doze) meses e imediatamente iniciar novo processo de contratação.
 
-Art. 41. Esta Instrução Normativa entrará em vigor em 2 de janeiro de 2015, quando restará revogada a Instrução Normativa SLTI/MP nº 4, de 12 de novembro de 2010, e suas alterações. (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
+<a id="art-41"/>[Art. 41](#art-41). Esta Instrução Normativa entrará em vigor em 2 de janeiro de 2015, quando restará revogada a Instrução Normativa SLTI/MP nº 4, de 12 de novembro de 2010, e suas alterações. (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
 
 LORENI F. FORESTI
 
