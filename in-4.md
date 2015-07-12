@@ -208,7 +208,7 @@ I - decidir motivadamente sobre o prosseguimento da contratação;
 
 II - indicar o Integrante Administrativo para composição da Equipe de Planejamento da Contratação, quando da continuidade da contratação; e
 
-III - instituir a Equipe de Planejamento da Contratação, conforme exposto no art. 2º, inciso IV.
+III - instituir a Equipe de Planejamento da Contratação, conforme exposto no [art. 2º](#art-2), inciso IV.
 
 #### Subseção II: Do Estudo Técnico Preliminar da Contratação
 
@@ -268,7 +268,7 @@ VII - definição dos mecanismos para continuidade do fornecimento da Solução 
 
 VIII - declaração da viabilidade da contratação.
 
-§ 1º O Estudo Técnico Preliminar será aprovado e assinado pelos Integrantes Requisitante e Técnico da Equipe de Planejamento da Contratação, observando-se o disposto no art. 10 desta norma.
+§ 1º O Estudo Técnico Preliminar será aprovado e assinado pelos Integrantes Requisitante e Técnico da Equipe de Planejamento da Contratação, observando-se o disposto no [art. 10](#art-10) desta norma.
 
 § 2º O Estudo Técnico Preliminar da Contratação será avaliado e assinado pela autoridade competente, quando:
 
@@ -302,25 +302,25 @@ VI - definição dos responsáveis pelas ações de prevenção dos riscos e dos
 
 <a id="art-14"/>[Art. 14](#art-14). O Termo de Referência ou Projeto Básico será elaborado pela Equipe de Planejamento da Contratação a partir do Estudo Técnico Preliminar da Contratação e conterá, no mínimo, as seguintes informações:
 
-I - definição do objeto da contratação, conforme art. 15;
+I - definição do objeto da contratação, conforme [art. 15](#art-15);
 
-II - justificativa para contratação e descrição da Solução de Tecnologia da Informação, conforme art. 16;
+II - justificativa para contratação e descrição da Solução de Tecnologia da Informação, conforme [art. 16](#art-16);
 
-III - especificação dos requisitos da contratação, conforme art. 17;
+III - especificação dos requisitos da contratação, conforme [art. 17](#art-17);
 
-IV - definição das responsabilidades da contratante, da contratada e do órgão gerenciador da Ata de Registro de Preços, quando aplicável, conforme art. 18;
+IV - definição das responsabilidades da contratante, da contratada e do órgão gerenciador da Ata de Registro de Preços, quando aplicável, conforme [art. 18](#art-18);
 
-V - Modelo de Execução do contrato, conforme art. 19;
+V - Modelo de Execução do contrato, conforme [art. 19](#art-19);
 
-VI - Modelo de Gestão do contrato, conforme art. 20;
+VI - Modelo de Gestão do contrato, conforme [art. 20](#art-20);
 
-VII - estimativas de preços da contratação, conforme art. 22;
+VII - estimativas de preços da contratação, conforme [art. 22](#art-22);
 
-VIII - adequação orçamentária e cronograma físico-financeiro, conforme art. 23;
+VIII - adequação orçamentária e cronograma físico-financeiro, conforme [art. 23](#art-23);
 
-IX - regime de execução do contrato, conforme art. 24; e
+IX - regime de execução do contrato, conforme [art. 24](#art-24); e
 
-X - critérios para seleção do fornecedor, conforme art. 25.
+X - critérios para seleção do fornecedor, conforme [art. 25](#art-25).
 
 § 1º Nas licitações do tipo técnica e preço, deve-se:
 
@@ -346,9 +346,9 @@ II - permitir consórcio ou subcontratação da Solução de Tecnologia da Infor
 
 <a id="art-16"/>[Art. 16](#art-16). A justificativa para contratação deverá conter, pelo menos:
 
-I - relação entre o Plano Diretor de Tecnologia da Informação e os objetivos estratégicos, conforme disposto no art. 11, inciso I desta IN; e
+I - relação entre o Plano Diretor de Tecnologia da Informação e os objetivos estratégicos, conforme disposto no [art. 11](#art-11), inciso I desta IN; e
 
-II - a descrição da Solução de Tecnologia da Informação, contendo de forma detalhada, motivada e justificada, inclusive quanto à forma de cálculo, o quantitativo de bens e serviços necessários para a sua composição, juntamente com demonstrativo de resultados a serem alcançados em termos de economicidade e de melhor aproveitamento dos recursos humanos, materiais e financeiros disponíveis, conforme inciso IV do art. 12. (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
+II - a descrição da Solução de Tecnologia da Informação, contendo de forma detalhada, motivada e justificada, inclusive quanto à forma de cálculo, o quantitativo de bens e serviços necessários para a sua composição, juntamente com demonstrativo de resultados a serem alcançados em termos de economicidade e de melhor aproveitamento dos recursos humanos, materiais e financeiros disponíveis, conforme inciso IV do [art. 12](#art-12). (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
 
 <a id="art-17"/>[Art. 17](#art-17). Na especificação dos requisitos da contratação, compete:
 
@@ -396,11 +396,11 @@ Parágrafo único. A Equipe de Planejamento da Contratação deverá garantir o 
 
 I - a definição das obrigações da contratante contendo, pelo menos, a obrigação de: 
 
-a) nomear Gestor e Fiscais Técnico, Administrativo e Requisitante do contrato para acompanhar e fiscalizar a execução dos contratos, conforme o disposto no art. 30 desta IN;
+a) nomear Gestor e Fiscais Técnico, Administrativo e Requisitante do contrato para acompanhar e fiscalizar a execução dos contratos, conforme o disposto no [art. 30](#art-30) desta IN;
 
 b) encaminhar formalmente a demanda, preferencialmente por meio de Ordem de Serviço ou Fornecimento de Bens, de acordo com os critérios estabelecidos no Termo de Referência ou Projeto Básico, observando-se o disposto no arts. 19 e 33 desta IN;
 
-c) receber o objeto fornecido pela contratada que esteja em conformidade com a proposta aceita, conforme inspeções realizadas, observando o disposto no art. 21;
+c) receber o objeto fornecido pela contratada que esteja em conformidade com a proposta aceita, conforme inspeções realizadas, observando o disposto no [art. 21](#art-21);
 
 d) aplicar à contratada as sanções administrativas regulamentares e contratuais cabíveis, comunicando ao órgão gerenciador da Ata de Registro de Preços, quando se tratar de contrato oriundo de Ata de Registro de Preços;
 
@@ -428,7 +428,7 @@ e) manter, durante toda a execução do contrato, as mesmas condições da habil
 
 f) quando especificada, manter, durante a execução do Contrato, equipe técnica composta por profissionais devidamente habilitados, treinados e qualificados para fornecimento da Solução de Tecnologia da Informação;
 
-g) manter a produtividade ou a capacidade mínima de fornecimento da Solução de Tecnologia da Informação durante a execução do contrato, conforme art. 18, inciso I, alínea "g";
+g) manter a produtividade ou a capacidade mínima de fornecimento da Solução de Tecnologia da Informação durante a execução do contrato, conforme [art. 18](#art-18), inciso I, alínea "g";
 
 h) fornecer, sempre que solicitado, amostra para realização de Prova de Conceito para fins de comprovação de atendimento das especificações técnicas; e
 
@@ -490,7 +490,7 @@ Parágrafo único. A critério da Equipe de Planejamento da Contratação, os el
 
 I - fixação dos Critérios de Aceitação dos serviços prestados ou bens fornecidos, abrangendo métricas, indicadores e níveis de serviços com os valores mínimos aceitáveis para os principais elementos que compõe a Solução de Tecnologia da Informação;
 
-II - procedimentos de teste e inspeção, para fins de elaboração dos Termos de Recebimento Provisório e Definitivo, conforme disposto no art. 73 da [Lei nº 8.666, de 1993], e nos incisos XXII e XXIII do art. 2º desta IN, abrangendo:
+II - procedimentos de teste e inspeção, para fins de elaboração dos Termos de Recebimento Provisório e Definitivo, conforme disposto no art. 73 da [Lei nº 8.666, de 1993], e nos incisos XXII e XXIII do [art. 2º](#art-2) desta IN, abrangendo:
 
 a) metodologia, formas de avaliação da qualidade e adequação da Solução de Tecnologia da Informação às especificações funcionais e tecnológicas, observando:
 
@@ -498,7 +498,7 @@ a) metodologia, formas de avaliação da qualidade e adequação da Solução de
 
 2. adoção de ferramentas, computacionais ou não, para implantação e acompanhamento dos indicadores estabelecidos;
 
-3. origem e formas de obtenção das informações necessárias à gestão e à fiscalização do contrato, conforme disposto na alínea "b" do inciso I do art. 19 desta IN;
+3. origem e formas de obtenção das informações necessárias à gestão e à fiscalização do contrato, conforme disposto na alínea "b" do inciso I do [art. 19](#art-19) desta IN;
 
 4. definição de Listas de Verificação e de roteiros de testes para subsidiar a ação dos Fiscais do contrato; e
 
@@ -506,7 +506,7 @@ a) metodologia, formas de avaliação da qualidade e adequação da Solução de
 
 b) disponibilidade de recursos humanos necessários às atividades de gestão e fiscalização do contrato, inclusive quanto à qualificação técnica e disponibilidade de tempo para aplicação das Listas de Verificação e roteiros de testes;
 
-c) demais elementos necessários à elaboração do Plano de Fiscalização, conforme disposto no inciso XVII do art. 2º e inciso II do art. 32 desta IN;
+c) demais elementos necessários à elaboração do Plano de Fiscalização, conforme disposto no inciso XVII do [art. 2º](#art-2) e inciso II do [art. 32](#art-32) desta IN;
 
 III - fixação dos valores e procedimentos para retenção ou glosa no pagamento, sem prejuízo das sanções cabíveis, que só deverá ocorrer quando a contratada:
 
@@ -514,7 +514,7 @@ a) não atingir os valores mínimos aceitáveis fixados nos Critérios de Aceita
 
 b) deixar de utilizar materiais e recursos humanos exigidos para fornecimento da Solução de Tecnologia da Informação, ou utilizá-los com qualidade ou quantidade inferior à demandada;
 
-IV - definição clara e detalhada das sanções administrativas, de acordo com os arts. 86, 87 e 88 da Lei nº 8.666, de 1993, juntamente com o art. 7º da Lei nº 10.520, de 2002, observando:
+IV - definição clara e detalhada das sanções administrativas, de acordo com os arts. 86, 87 e 88 da [Lei nº 8.666, de 1993], juntamente com o art. 7º da [Lei nº 10.520, de 2002], observando:
 
 a) vinculação aos termos contratuais;
 
@@ -530,9 +530,9 @@ f) as situações em que a contratada será declarada inidônea para licitar ou 
 
 V - procedimentos para emissão de nota fiscal e pagamento, descontados os valores oriundos da aplicação de eventuais glosas ou sanções.
 
-Parágrafo único. Como apoio à definição dos elementos do Modelo de Gestão do Contrato deverá ser observada a Análise de Riscos, conforme disposto no art. 13 desta IN.
+Parágrafo único. Como apoio à definição dos elementos do Modelo de Gestão do Contrato deverá ser observada a Análise de Riscos, conforme disposto no [art. 13](#art-13) desta IN.
 
-<a id="art-21"/>[Art. 21](#art-21). A critério da Equipe de Planejamento da Contratação, as obrigações definidas nos arts. 19 e 20 desta IN poderão ser consolidados nas obrigações estabelecidas no art. 18.
+<a id="art-21"/>[Art. 21](#art-21). A critério da Equipe de Planejamento da Contratação, as obrigações definidas nos arts. 19 e 20 desta IN poderão ser consolidados nas obrigações estabelecidas no [art. 18](#art-18).
 
 <a id="art-22"/>[Art. 22](#art-22). A estimativa de preço da contratação deverá ser realizada pelos Integrantes Administrativo e Técnico para elaboração do orçamento detalhado, composta por preços unitários e fundamentada em pesquisa no mercado, a exemplo de contratações similares, valores oficiais de referência, pesquisa junto a fornecedores ou tarifas públicas.
 
@@ -542,7 +542,7 @@ I - a estimativa do impacto econômico-financeiro no orçamento do órgão ou en
 
 II - cronograma de execução física e financeira, contendo o detalhamento das etapas ou fases da Solução a ser contratada, com os principais serviços ou bens que a compõe, e a previsão de desembolso para cada uma delas.
 
-<a id="art-24"/>[Art. 24](#art-24). Definição do regime de execução do contrato, observado o disposto no inciso VIII do art. 6º da Lei nº 8.666, de 1993.
+<a id="art-24"/>[Art. 24](#art-24). Definição do regime de execução do contrato, observado o disposto no inciso VIII do art. 6º da [Lei nº 8.666, de 1993].
 
 <a id="art-25"/>[Art. 25](#art-25). A definição, pelo Integrante Técnico, dos critérios técnicos de julgamento das propostas para a fase de Seleção do Fornecedor, deverá observar o seguinte:
 
@@ -586,7 +586,7 @@ III - Fiscal Requisitante do Contrato; e
 
 IV - Fiscal Administrativo do Contrato.
 
-§ 1º As nomeações descritas neste artigo serão realizadas pela autoridade competente da Área Administrativa, observado o disposto nos incisos V, VI, VII e VIII do art. 2; (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
+§ 1º As nomeações descritas neste artigo serão realizadas pela autoridade competente da Área Administrativa, observado o disposto nos incisos V, VI, VII e VIII do [art. 2](#art-2); (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
 
 § 2º Os Fiscais Técnico, Requisitante e Administrativo do Contrato poderão ser os Integrantes da Equipe de Planejamento da Contratação;
 
@@ -618,7 +618,7 @@ III - realização de reunião inicial convocada pelo Gestor do Contrato com a p
 
 a) presença do representante legal da contratada, que apresentará o preposto da mesma;
 
-b) entrega, por parte da contratada, do termo de compromisso e do termo de ciência, conforme art. 19, inciso V; e
+b) entrega, por parte da contratada, do termo de compromisso e do termo de ciência, conforme [art. 19](#art-19), inciso V; e
 
 c) esclarecimentos relativos a questões operacionais, administrativas e de gestão do contrato.
 
@@ -626,7 +626,7 @@ Parágrafo único. A critério do Gestor e dos Fiscais do contrato, o Plano de I
 
 #### Subseção II: Do encaminhamento formal de demandas
 
-<a id="art-33"/>[Art. 33](#art-33). O encaminhamento formal de demandas deverá ocorrer preferencialmente por meio do encaminhamento de Ordens de Serviço ou Fornecimento de Bens ou conforme definido no Modelo de Execução do contrato, disposto no art. 19, e deverá conter, no mínimo:
+<a id="art-33"/>[Art. 33](#art-33). O encaminhamento formal de demandas deverá ocorrer preferencialmente por meio do encaminhamento de Ordens de Serviço ou Fornecimento de Bens ou conforme definido no Modelo de Execução do contrato, disposto no [art. 19](#art-19), e deverá conter, no mínimo:
 
 I - a definição e a especificação dos serviços a serem realizados ou bens a serem fornecidos;
 
@@ -636,7 +636,7 @@ III - o cronograma de realização dos serviços ou entrega dos bens, incluídas
 
 IV - a identificação dos responsáveis pela solicitação na Área Requisitante da Solução.
 
-Parágrafo único. O encaminhamento das demandas deverá ser planejado visando a garantir que os prazos para entrega final de todos os bens e serviços que compõe a Solução de Tecnologia da Informação, satisfeitas as condições dispostas no art. 19 desta norma, estejam compreendidos dentro do prazo de vigência contratual.
+Parágrafo único. O encaminhamento das demandas deverá ser planejado visando a garantir que os prazos para entrega final de todos os bens e serviços que compõe a Solução de Tecnologia da Informação, satisfeitas as condições dispostas no [art. 19](#art-19) desta norma, estejam compreendidos dentro do prazo de vigência contratual.
 
 #### Subseção III: Do monitoramento da execução
 
@@ -670,7 +670,7 @@ XIII - encaminhamento à Área Administrativa de eventuais pedidos de modificaç
 
 XIV - manutenção do Histórico de Gestão do Contrato, contendo registros formais de todas as ocorrências positivas e negativas da execução do contrato, por ordem histórica, a cargo do Gestor do Contrato.
 
-Parágrafo único. No caso de substituição ou inclusão de empregados por parte da contratada, o preposto deverá entregar termo de ciência assinado pelos novos empregados envolvidos na execução contratual, conforme art. 19, inciso V.
+Parágrafo único. No caso de substituição ou inclusão de empregados por parte da contratada, o preposto deverá entregar termo de ciência assinado pelos novos empregados envolvidos na execução contratual, conforme [art. 19](#art-19), inciso V.
 
 #### Subseção IV: Da transição e do encerramento contratual
 
