@@ -1,4 +1,4 @@
-# Sugestões de melhorias à Instrução Normativa 04
+# Sugestões de melhorias à Instrução Normativa 4, de 2015
 
 A tecnologia da informação do governo está quebrada.
 

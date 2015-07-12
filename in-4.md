@@ -1,4 +1,4 @@
-INSTRUÇÃO NORMATIVA N° 4, DE 11 DE SETEMBRO DE 2014.
+# INSTRUÇÃO NORMATIVA N° 4, DE 11 DE SETEMBRO DE 2014.
 
 Dispõe sobre o processo de contratação de Soluções de Tecnologia da Informação pelos órgãos integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação - SISP do Poder Executivo Federal. (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
 
@@ -24,7 +24,7 @@ III - Às contratações de Soluções de Tecnologia da Informação que possam 
 
 § 3º Os órgãos e entidades integrantes do SISP deverão observar, no que couber, os dispositivos introduzidos por esta IN, sendo-lhes permitida harmonização para melhor adequação à sua estrutura funcional, conforme disposto no art. 115 da [Lei nº 8.666, de 1993].
 
-Capítulo I: DAS DISPOSIÇÕES GERAIS
+## Capítulo I: DAS DISPOSIÇÕES GERAIS
 
 Art. 2º Para fins desta IN, considera-se:
 
@@ -146,7 +146,7 @@ a) incluir critérios de pontuação técnica que não estejam diretamente relac
 
 b) fixar os fatores de ponderação das propostas técnica e de preço sem justificativa, salvo quando o fator de ponderação for 50% (cinquenta por cento) para técnica e 50% (cinquenta por cento) para preço.
 
-Capítulo II: DO PROCESSO DE CONTRATAÇÃO
+## Capítulo II: DO PROCESSO DE CONTRATAÇÃO
 
 Art. 8º As contratações de Soluções de Tecnologia da Informação deverão seguir três fases:
 
@@ -156,7 +156,7 @@ II - Seleção do Fornecedor; e
 
 III - Gestão do Contrato.
 
-Seção I: Planejamento da Contratação
+### Seção I: Planejamento da Contratação
 
 Art. 9º A fase de Planejamento da Contratação consiste nas seguintes etapas:
 
@@ -188,7 +188,7 @@ I - fatos relevantes ocorridos, a exemplo de comunicação e/ou reunião com for
 
 II - documentos gerados e/ou recebidos, a exemplo dos artefatos previstos nesta norma, pesquisas de preço de mercado, e-mails, atas de reunião, dentre outros.
 
-Subseção I: Da instituição da Equipe de Planejamento da Contratação
+#### Subseção I: Da instituição da Equipe de Planejamento da Contratação
 
 Art. 11. A fase de Planejamento da Contratação terá início com o recebimento pela Área de Tecnologia da Informação do Documento de Oficialização da Demanda - DOD, a cargo da Área Requisitante da Solução, para instituição da Equipe de Planejamento da Contratação, que conterá no mínimo:
 
@@ -210,7 +210,7 @@ II - indicar o Integrante Administrativo para composição da Equipe de Planejam
 
 III - instituir a Equipe de Planejamento da Contratação, conforme exposto no art. 2º, inciso IV.
 
-Subseção II: Do Estudo Técnico Preliminar da Contratação
+#### Subseção II: Do Estudo Técnico Preliminar da Contratação
 
 Art. 12. O Estudo Técnico Preliminar da Contratação será realizado pelos Integrantes Técnico e Requisitante, compreendendo as seguintes tarefas:
 
@@ -278,7 +278,7 @@ II - os Integrantes Requisitante e Técnico da Equipe de Planejamento da Contrat
 
 § 3º Nas situações definidas no parágrafo anterior, a autoridade competente deverá decidir motivadamente pelo prosseguimento da contratação.
 
-Subseção III: Da Análise de Riscos
+#### Subseção III: Da Análise de Riscos
 
 Art. 13. A Análise de Riscos será elaborada pela Equipe de Planejamento da Contratação contendo os seguintes itens:
 
@@ -298,7 +298,7 @@ VI - definição dos responsáveis pelas ações de prevenção dos riscos e dos
 
 § 2º A Análise de Riscos será aprovada e assinada pela Equipe de Planejamento da Contratação.
 
-Subseção IV: Do Termo de Referência ou do Projeto Básico
+#### Subseção IV: Do Termo de Referência ou do Projeto Básico
 
 Art. 14. O Termo de Referência ou Projeto Básico será elaborado pela Equipe de Planejamento da Contratação a partir do Estudo Técnico Preliminar da Contratação e conterá, no mínimo, as seguintes informações:
 
@@ -558,7 +558,7 @@ e) a vedação de pontuação progressiva de mais de um atestado para o mesmo qu
 
 f) a justificativa dos critérios de pontuação em termos do benefício que trazem para a contratante.
 
-Seção II: Seleção do Fornecedor
+### Seção II: Seleção do Fornecedor
 
 Art. 26. A fase de Seleção do Fornecedor observará as normas pertinentes, incluindo o disposto na [Lei nº 8.666, de 1993], na [Lei nº 10.520, de 2002], no [Decreto nº 2.271, de 1997], no [Decreto nº 3.555, de 2000], no [Decreto nº 5.450, de 2005], no [Decreto nº 7.174, de 2010], no [Decreto nº 7.892, de 2013] e no [Decreto nº 8.250, de 2014].
 
@@ -592,11 +592,11 @@ IV - Fiscal Administrativo do Contrato.
 
 § 3º A Equipe de Planejamento da Contratação será automaticamente destituída quando da assinatura do contrato.
 
-Seção III: Gestão do Contrato
+### Seção III: Gestão do Contrato
 
 Art. 31. A fase de Gestão do Contrato visa acompanhar e garantir a adequada prestação dos serviços e o fornecimento dos bens que compõem a Solução de Tecnologia da Informação durante todo o período de execução do contrato.
 
-Subseção I: Do início do contrato
+#### Subseção I: Do início do contrato
 
 Art. 32. As atividades de início do contrato compreendem:
 
@@ -624,7 +624,7 @@ c) esclarecimentos relativos a questões operacionais, administrativas e de gest
 
 Parágrafo único. A critério do Gestor e dos Fiscais do contrato, o Plano de Inserção e o Plano de Fiscalização poderão compor um único documento.
 
-Subseção II: Do encaminhamento formal de demandas
+#### Subseção II: Do encaminhamento formal de demandas
 
 Art. 33. O encaminhamento formal de demandas deverá ocorrer preferencialmente por meio do encaminhamento de Ordens de Serviço ou Fornecimento de Bens ou conforme definido no Modelo de Execução do contrato, disposto no art. 19, e deverá conter, no mínimo:
 
@@ -638,7 +638,7 @@ IV - a identificação dos responsáveis pela solicitação na Área Requisitant
 
 Parágrafo único. O encaminhamento das demandas deverá ser planejado visando a garantir que os prazos para entrega final de todos os bens e serviços que compõe a Solução de Tecnologia da Informação, satisfeitas as condições dispostas no art. 19 desta norma, estejam compreendidos dentro do prazo de vigência contratual.
 
-Subseção III: Do monitoramento da execução
+#### Subseção III: Do monitoramento da execução
 
 Art. 34. O monitoramento da execução deverá observar o disposto no Plano de Fiscalização da contratada e o disposto no Modelo de Gestão do contrato, e consiste em:
 
@@ -672,7 +672,7 @@ XIV - manutenção do Histórico de Gestão do Contrato, contendo registros form
 
 Parágrafo único. No caso de substituição ou inclusão de empregados por parte da contratada, o preposto deverá entregar termo de ciência assinado pelos novos empregados envolvidos na execução contratual, conforme art. 19, inciso V.
 
-Subseção IV: Da transição e do encerramento contratual
+#### Subseção IV: Da transição e do encerramento contratual
 
 Art. 35. As atividades de transição contratual, quando aplicáveis, e de encerramento do contrato deverão observar:
 
@@ -694,7 +694,7 @@ Art. 36. No caso de aditamento contratual, o Gestor do Contrato deverá, com bas
 
 Art. 37. Os softwares resultantes de serviços de desenvolvimento deverão ser catalogados pela contratante e, sempre que aplicável, disponibilizados no Portal do Software Público Brasileiro de acordo com o regulamento do Órgão Central do SISP.
 
-Capítulo III: DAS DISPOSIÇÕES FINAIS
+## Capítulo III: DAS DISPOSIÇÕES FINAIS
 
 Art. 38. Aplica-se subsidiariamente às contratações de que trata esta norma o disposto na IN nº 2, de 30 de abril de 2008, e suas alterações, que disciplina as contratações de serviços gerais.
 
