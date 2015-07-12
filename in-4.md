@@ -2,27 +2,27 @@ INSTRUÇÃO NORMATIVA N° 4, DE 11 DE SETEMBRO DE 2014.
 
 Dispõe sobre o processo de contratação de Soluções de Tecnologia da Informação pelos órgãos integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação - SISP do Poder Executivo Federal. (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
 
-A SECRETÁRIA DE LOGÍSTICA E TECNOLOGIA DA INFORMAÇÃO, no uso das atribuições que lhe confere o art. 34 do Decreto nº 8.189, de 21 de janeiro de 2014, e tendo em vista o disposto na Lei nº 8.666, de 21 de junho de 1993, e na Lei nº 10.520, de 17 de julho de 2002, no Decreto nº 2.271, de 7 de julho de 1997, no Decreto nº 3.555, de 8 de agosto de 2000, no Decreto nº 5.450, de 31 de maio de 2005, no Decreto nº 7.174, de 12 de maio de 2010, no Decreto nº 7.579, de 11 de outubro de 2011, no Decreto nº 7.892, de 23 de janeiro de 2013, resolve:
+A SECRETÁRIA DE LOGÍSTICA E TECNOLOGIA DA INFORMAÇÃO, no uso das atribuições que lhe confere o art. 34 do [Decreto nº 8.189, de 21 de janeiro de 2014], e tendo em vista o disposto na [Lei nº 8.666, de 21 de junho de 1993], e na [Lei nº 10.520, de 17 de julho de 2002], no [Decreto nº 2.271, de 7 de julho de 1997], no [Decreto nº 3.555, de 8 de agosto de 2000], no [Decreto nº 5.450, de 31 de maio de 2005], no [Decreto nº 7.174, de 12 de maio de 2010], no [Decreto nº 7.579, de 11 de outubro de 2011], no [Decreto nº 7.892, de 23 de janeiro de 2013], resolve:
 
 Art. 1º As contratações de Soluções de Tecnologia da Informação pelos órgãos e entidades integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação (SISP) serão disciplinadas por esta Instrução Normativa (IN).
 
 § 1º Esta IN não se aplica:
 
-I - Às contratações cuja estimativa de preços seja inferior ao disposto no art. 23, inciso II, alínea "a" da Lei nº 8.666, de 21 de junho de 1993;
+I - Às contratações cuja estimativa de preços seja inferior ao disposto no art. 23, inciso II, alínea "a" da [Lei nº 8.666, de 21 de junho de 1993];
 
 II - Às contratações dos Serviços Estratégicos de Tecnologia da Informação, que deverão observar o Plano de Capacidade, conforme disposto no inciso XIV do art. 2º desta IN, para confecção do Planejamento da Contratação nos termos da Lei, não se aplicando a estes casos os demais dispositivos desta IN, a exceção do disposto no § 2º deste artigo e do disposto no art. 4º desta IN, em que a contratada seja:
 
-a) órgão ou entidade, nos termos do art. 24, inciso XVI da Lei nº 8.666, de 1993;
+a) órgão ou entidade, nos termos do art. 24, inciso XVI da [Lei nº 8.666, de 1993];
 
-b) Empresa Pública, nos termos do art. 2º da Lei nº 5.615, de 13 de outubro de 1970, modificada pela Lei nº 12.249, de 11 de junho de 2010; e
+b) Empresa Pública, nos termos do art. 2º da [Lei nº 5.615, de 13 de outubro de 1970], modificada pela [Lei nº 12.249, de 11 de junho de 2010]; e
 
-c) Empresa Pública, nos termos da Lei nº 6.125, de 4 de novembro de 1974.
+c) Empresa Pública, nos termos da [Lei nº 6.125, de 4 de novembro de 1974].
 
-III - Às contratações de Soluções de Tecnologia da Informação que possam comprometer a segurança nacional, em que deverá ser observado o disposto no Decreto nº 8.135, de 4 de novembro de 2013, e suas regulamentações específicas.
+III - Às contratações de Soluções de Tecnologia da Informação que possam comprometer a segurança nacional, em que deverá ser observado o disposto no [Decreto nº 8.135, de 4 de novembro de 2013], e suas regulamentações específicas.
 
 § 2º O art. 4º desta IN deverá ser sempre observado, mesmo nos casos enquadrados nos parágrafos anteriores deste artigo.
 
-§ 3º Os órgãos e entidades integrantes do SISP deverão observar, no que couber, os dispositivos introduzidos por esta IN, sendo-lhes permitida harmonização para melhor adequação à sua estrutura funcional, conforme disposto no art. 115 da Lei nº 8.666, de 1993.
+§ 3º Os órgãos e entidades integrantes do SISP deverão observar, no que couber, os dispositivos introduzidos por esta IN, sendo-lhes permitida harmonização para melhor adequação à sua estrutura funcional, conforme disposto no art. 115 da [Lei nº 8.666, de 1993].
 
 Capítulo I: DAS DISPOSIÇÕES GERAIS
 
@@ -92,7 +92,7 @@ XXVIII - Comitê de Tecnologia da Informação: grupo formado por titulares das 
 
 XXIX - Serviços Estratégicos de Tecnologia da Informação: conjunto de atividades de prestação de serviços, relacionadas aos sistemas estruturantes e finalísticos dos órgãos e entidades, que integram uma Solução de Tecnologia da Informação e cuja execução envolve informações críticas quanto à confiabilidade, segurança e confidencialidade, e cuja descontinuidade na prestação dos serviços pode impactar as atividades dos órgãos ou entidades.
 
-Art. 3º Em consonância com o art. 4º do Decreto nº 7.579, de 2011, o órgão central do SISP elaborará, em conjunto com os órgãos setoriais e seccionais do SISP, a Estratégia Geral de Tecnologia da Informação e Comunicação - EGTIC para a Administração direta, autárquica e fundacional do Poder Executivo Federal, revisada e publicada anualmente, para servir de subsídio à elaboração dos PDTI pelos órgãos e entidades integrantes do SISP. (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
+Art. 3º Em consonância com o art. 4º do [Decreto nº 7.579, de 11 de Outubro de 2011], o órgão central do SISP elaborará, em conjunto com os órgãos setoriais e seccionais do SISP, a Estratégia Geral de Tecnologia da Informação e Comunicação - EGTIC para a Administração direta, autárquica e fundacional do Poder Executivo Federal, revisada e publicada anualmente, para servir de subsídio à elaboração dos PDTI pelos órgãos e entidades integrantes do SISP. (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
 
 Art. 4º As contratações de que trata esta IN deverão ser precedidas de planejamento, elaborado em harmonia com o Plano Diretor de Tecnologia da Informação - PDTI.
 
@@ -230,11 +230,11 @@ b) as soluções existentes no Portal do Software Público Brasileiro (http://ww
 
 c) a capacidade e alternativas do mercado, inclusive a existência de software livre ou software público;
 
-d) a observância às políticas, premissas e especificações técnicas definidas pelos Padrões de Interoperabilidade de Governo Eletrônico - e-PING e Modelo de Acessibilidade em Governo Eletrônico - e-MAG, conforme as Portarias Normativas SLTI nº 5, de 14 de julho de 2005 e nº 3, de 7 de maio de 2007;
+d) a observância às políticas, premissas e especificações técnicas definidas pelos Padrões de Interoperabilidade de Governo Eletrônico - e-PING e Modelo de Acessibilidade em Governo Eletrônico - e-MAG, conforme as [Portarias Normativas SLTI nº 5, de 14 de julho de 2005][Portaria Normativa SLTI nº 5, de 14 de julho de 2005] e [nº 3, de 7 de maio de 2007][Portaria Normativa SLTI nº 3, de 7 de maio de 2007];
 
-e) a aderência às regulamentações da Infraestrutura de Chaves Públicas Brasileira - ICP- Brasil, conforme a Medida Provisória nº 2.200-2, de 24 de agosto de 2001, quando houver necessidade de utilização de certificação digital;
+e) a aderência às regulamentações da Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, conforme a [Medida Provisória nº 2.200-2, de 24 de agosto de 2001], quando houver necessidade de utilização de certificação digital;
 
-f) a observância às orientações, premissas e especificações técnicas e funcionais definidas pelo Modelo de Requisitos para Sistemas Informatizados de Gestão Arquivística de Documentos - e- ARQ Brasil, quando o objetivo da solução abranger a gestão de documentos arquivísticos digitais e não digitais, conforme Resolução do CONARQ nº 32, de 17 de maio de 2010; e
+f) a observância às orientações, premissas e especificações técnicas e funcionais definidas pelo Modelo de Requisitos para Sistemas Informatizados de Gestão Arquivística de Documentos - e-ARQ Brasil, quando o objetivo da solução abranger a gestão de documentos arquivísticos digitais e não digitais, conforme [Resolução do CONARQ nº 32, de 17 de maio de 2010]; e
 
 g) o orçamento estimado.
 
@@ -272,7 +272,7 @@ VIII - declaração da viabilidade da contratação.
 
 § 2º O Estudo Técnico Preliminar da Contratação será avaliado e assinado pela autoridade competente, quando:
 
-I - as contratações cujo orçamento estimado definido na alínea “g”, inciso II, deste artigo seja superior a duas vezes o disposto no art. 23, inciso II, alínea "c" da Lei nº 8.666, de 1993; e
+I - as contratações cujo orçamento estimado definido na alínea "g", inciso II, deste artigo seja superior a duas vezes o disposto no art. 23, inciso II, alínea "c" da [Lei nº 8.666, de 1993]; e
 
 II - os Integrantes Requisitante e Técnico da Equipe de Planejamento da Contratação declararem a inviabilidade da contratação, conforme inciso VIII deste artigo.
 
@@ -332,11 +332,11 @@ II - proceder a avaliação do impacto de pontuação atribuída em relação ao
 
 I - parcelamento da Solução de Tecnologia da Informação a ser contratada, em tantos itens quanto se comprovarem técnica e economicamente viáveis, justificando-se a decisão de parcelamento ou não da Solução; e
 
-II - permitir consórcio ou subcontratação da Solução de Tecnologia da Informação, observado o disposto nos arts. 33 e 72 da Lei nº 8.666, de 1993, respectivamente, justificando-se a decisão.
+II - permitir consórcio ou subcontratação da Solução de Tecnologia da Informação, observado o disposto nos arts. 33 e 72 da [Lei nº 8.666, de 1993], respectivamente, justificando-se a decisão.
 
-§ 3º A Equipe de Planejamento da Contratação avaliará, ainda, a necessidade de licitações e contratações separadas para os itens que, devido a sua natureza, possam ser divididos em tantas parcelas quantas se comprovarem técnica e economicamente viáveis, procedendo-se à licitação com vistas ao melhor aproveitamento dos recursos disponíveis no mercado e à ampliação da competitividade sem perda da economia de escala, conforme disposto no art. 23, § 1º da Lei nº 8.666, de 1993.
+§ 3º A Equipe de Planejamento da Contratação avaliará, ainda, a necessidade de licitações e contratações separadas para os itens que, devido a sua natureza, possam ser divididos em tantas parcelas quantas se comprovarem técnica e economicamente viáveis, procedendo-se à licitação com vistas ao melhor aproveitamento dos recursos disponíveis no mercado e à ampliação da competitividade sem perda da economia de escala, conforme disposto no art. 23, § 1º da [Lei nº 8.666, de 1993].
 
-§ 4º Nas licitações por preço global, cada serviço ou produto do lote deverá estar discriminado em itens separados nas propostas de preços, de modo a permitir a identificação do seu preço individual na composição do preço global, e a eventual incidência sobre cada item das margens de preferência para produtos e serviços que atendam às Normas Técnicas Brasileiras (NTB), de acordo com o art. 3º, § 5º da Lei nº 8.666, de 1993.
+§ 4º Nas licitações por preço global, cada serviço ou produto do lote deverá estar discriminado em itens separados nas propostas de preços, de modo a permitir a identificação do seu preço individual na composição do preço global, e a eventual incidência sobre cada item das margens de preferência para produtos e serviços que atendam às Normas Técnicas Brasileiras (NTB), de acordo com o art. 3º, § 5º da [Lei nº 8.666, de 1993].
 
 § 5º O Termo de Referência ou Projeto Básico, a critério da Área Requisitante da Solução ou da Área de Tecnologia da Informação, poderá ser disponibilizado em consulta ou audiência pública, a fim de avaliar a completude e a coerência da especificação dos requisitos, a adequação e a exequibilidade dos critérios de aceitação.
 
@@ -428,13 +428,13 @@ e) manter, durante toda a execução do contrato, as mesmas condições da habil
 
 f) quando especificada, manter, durante a execução do Contrato, equipe técnica composta por profissionais devidamente habilitados, treinados e qualificados para fornecimento da Solução de Tecnologia da Informação;
 
-g) manter a produtividade ou a capacidade mínima de fornecimento da Solução de Tecnologia da Informação durante a execução do contrato, conforme art. 18, inciso I, alínea “g”;
+g) manter a produtividade ou a capacidade mínima de fornecimento da Solução de Tecnologia da Informação durante a execução do contrato, conforme art. 18, inciso I, alínea "g";
 
 h) fornecer, sempre que solicitado, amostra para realização de Prova de Conceito para fins de comprovação de atendimento das especificações técnicas; e
 
 i) ceder os direitos de propriedade intelectual e direitos autorais da Solução de Tecnologia da Informação sobre os diversos artefatos e produtos produzidos ao longo do contrato, incluindo a documentação, os modelos de dados e as bases de dados, à Administração.
 
-III - a definição das obrigações do órgão gerenciador do registro de preços contendo, além do disposto no Decreto nº 7.892, de 23 de janeiro de 2013, atualizado pelo Decreto nº 8.250, de 23 de maio de 2014, pelo menos, a obrigação de:
+III - a definição das obrigações do órgão gerenciador do registro de preços contendo, além do disposto no [Decreto nº 7.892, de 23 de janeiro de 2013], atualizado pelo [Decreto nº 8.250, de 23 de maio de 2014], pelo menos, a obrigação de:
 
 a) efetuar o registro do licitante fornecedor e firmar a correspondente Ata de Registro de Preços;
 
@@ -490,7 +490,7 @@ Art. 20. O Modelo de Gestão do contrato, definido a partir do Modelo de Execuç
 
 I - fixação dos Critérios de Aceitação dos serviços prestados ou bens fornecidos, abrangendo métricas, indicadores e níveis de serviços com os valores mínimos aceitáveis para os principais elementos que compõe a Solução de Tecnologia da Informação;
 
-II - procedimentos de teste e inspeção, para fins de elaboração dos Termos de Recebimento Provisório e Definitivo, conforme disposto no art. 73 da Lei nº 8.666, de 1993, e nos incisos XXII e XXIII do art. 2º desta IN, abrangendo:
+II - procedimentos de teste e inspeção, para fins de elaboração dos Termos de Recebimento Provisório e Definitivo, conforme disposto no art. 73 da [Lei nº 8.666, de 1993], e nos incisos XXII e XXIII do art. 2º desta IN, abrangendo:
 
 a) metodologia, formas de avaliação da qualidade e adequação da Solução de Tecnologia da Informação às especificações funcionais e tecnológicas, observando:
 
@@ -498,7 +498,7 @@ a) metodologia, formas de avaliação da qualidade e adequação da Solução de
 
 2. adoção de ferramentas, computacionais ou não, para implantação e acompanhamento dos indicadores estabelecidos;
 
-3. origem e formas de obtenção das informações necessárias à gestão e à fiscalização do contrato, conforme disposto na alínea “b” do inciso I do art. 19 desta IN;
+3. origem e formas de obtenção das informações necessárias à gestão e à fiscalização do contrato, conforme disposto na alínea "b" do inciso I do art. 19 desta IN;
 
 4. definição de Listas de Verificação e de roteiros de testes para subsidiar a ação dos Fiscais do contrato; e
 
@@ -560,9 +560,9 @@ f) a justificativa dos critérios de pontuação em termos do benefício que tra
 
 Seção II: Seleção do Fornecedor
 
-Art. 26. A fase de Seleção do Fornecedor observará as normas pertinentes, incluindo o disposto na Lei nº 8.666, de 1993, na Lei nº 10.520, de 2002, no Decreto nº 2.271, de 1997, no Decreto nº 3.555, de 2000, no Decreto nº 5.450, de 2005, no Decreto nº 7.174, de 2010, no Decreto nº 7.892, de 2013 e no Decreto nº 8.250, de 2014.
+Art. 26. A fase de Seleção do Fornecedor observará as normas pertinentes, incluindo o disposto na [Lei nº 8.666, de 1993], na [Lei nº 10.520, de 2002], no [Decreto nº 2.271, de 1997], no [Decreto nº 3.555, de 2000], no [Decreto nº 5.450, de 2005], no [Decreto nº 7.174, de 2010], no [Decreto nº 7.892, de 2013] e no [Decreto nº 8.250, de 2014].
 
-Parágrafo único. É obrigatória a utilização da modalidade Pregão para as contratações de que trata esta IN sempre que a Solução de Tecnologia da Informação for enquadrada como bens ou serviços comuns, conforme o art. 1º da Lei nº 10.520, de 2002, preferencialmente na forma eletrônica, de acordo com o Decreto nº 5.450, de 2005.
+Parágrafo único. É obrigatória a utilização da modalidade Pregão para as contratações de que trata esta IN sempre que a Solução de Tecnologia da Informação for enquadrada como bens ou serviços comuns, conforme o art. 1º da [Lei nº 10.520, de 2002], preferencialmente na forma eletrônica, de acordo com o [Decreto nº 5.450, de 2005].
 
 Art. 27. A fase de Seleção do Fornecedor terá início com o encaminhamento do Termo de Referência ou Projeto Básico pela Área de Tecnologia da Informação à Área de Licitações.
 
@@ -707,3 +707,30 @@ Parágrafo único. Nos casos em que os ajustes não forem considerados viáveis,
 Art. 41. Esta Instrução Normativa entrará em vigor em 2 de janeiro de 2015, quando restará revogada a Instrução Normativa SLTI/MP nº 4, de 12 de novembro de 2010, e suas alterações. (Redação dada pela Instrução Normativa N° 2, de 12 de janeiro de 2015)
 
 LORENI F. FORESTI
+
+[Decreto nº 2.271, de 1997]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1997-07-07;2271
+[Decreto nº 2.271, de 7 de julho de 1997]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:1997-07-07;2271
+[Decreto nº 3.555, de 2000]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2000-08-08;3555
+[Decreto nº 3.555, de 8 de agosto de 2000]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2000-08-08;3555
+[Decreto nº 5.450, de 2005]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2005-05-31;5450
+[Decreto nº 5.450, de 31 de maio de 2005]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2005-05-31;5450
+[Decreto nº 7.174, de 2010]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2010-05-12;7174
+[Decreto nº 7.174, de 12 de maio de 2010]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2010-05-12;7174
+[Decreto nº 7.579, de 11 de outubro de 2011]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2011-10-11;7579
+[Decreto nº 7.892, de 2013]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2013-01-23;7892
+[Decreto nº 7.892, de 23 de janeiro de 2013]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2013-01-23;7892
+[Decreto nº 8.135, de 4 de novembro de 2013]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2013-11-04;8135
+[Decreto nº 8.189, de 21 de janeiro de 2014]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2014-01-21;8189
+[Decreto nº 8.250, de 2014]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2014-05-23;8250
+[Decreto nº 8.250, de 23 de maio de 2014]:http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2014-05-23;8250
+[Lei nº 8.666, de 1993]:http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1993-06-21;8666
+[Lei nº 8.666, de 21 de junho de 1993]:http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1993-06-21;8666
+[Lei nº 10.520, de 2002]:http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2002-07-17;10520
+[Lei nº 10.520, de 17 de julho de 2002]:http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2002-07-17;10520
+[Lei nº 5.615, de 13 de outubro de 1970]:http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1970-10-13;5615
+[Lei nº 6.125, de 4 de novembro de 1974]:http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:1974-11-04;6125
+[Lei nº 12.249, de 11 de junho de 2010]:http://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2010-06-11;12249
+[Medida Provisória nº 2.200-2, de 24 de agosto de 2001]:http://www.lexml.gov.br/urn/urn:lex:br:federal:medida.provisoria:2001-08-24;2200-2
+[Portaria Normativa SLTI nº 5, de 14 de julho de 2005]:http://www.governoeletronico.gov.br/o-gov.br/legislacao/portaria-no-05-de-14-de-julho-de-2005
+[Portaria Normativa SLTI nº 3, de 7 de maio de 2007]:http://www.governoeletronico.gov.br/o-gov.br/legislacao/portaria-no-03-de-07-de-maio-de-2007
+[Resolução do CONARQ nº 32, de 17 de maio de 2010]:http://conarq.arquivonacional.gov.br/cgi/cgilua.exe/sys/start.htm?infoid=509&sid=46
